@@ -1,0 +1,1 @@
+ /Users/un1t7d/Desktop/Repositorio/forms_app/.dart_tool/flutter_build/d8681df844984acd707ca89c6d17a159/native_assets.yaml: 
