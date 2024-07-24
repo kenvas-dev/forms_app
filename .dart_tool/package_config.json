@@ -86,6 +86,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "formz",
+      "rootUri": "file:///Users/un1t7d/.pub-cache/hosted/pub.dev/formz-0.5.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
       "name": "go_router",
       "rootUri": "file:///Users/un1t7d/.pub-cache/hosted/pub.dev/go_router-14.2.0",
       "packageUri": "lib/",
@@ -200,7 +206,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-07-09T23:52:40.450148Z",
+  "generated": "2024-07-24T03:06:11.564476Z",
   "generator": "pub",
   "generatorVersion": "3.2.5"
 }
